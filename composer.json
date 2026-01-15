@@ -1,0 +1,22 @@
+{
+    "name": "codr/string-manipulation",
+    "description": "A PHP library for string manipulation",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codr\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Codr\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^8.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
