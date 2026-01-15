@@ -47,4 +47,15 @@ class Str
     {
         return strtoupper($input);
     }
+
+    /**
+     * Convert string to ucfirst
+     *
+     * @param string $input
+     * @return string
+     */
+    public function ucfirst(string $input): string
+    {
+        return ucfirst($input);
+    }
 }
