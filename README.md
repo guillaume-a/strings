@@ -125,3 +125,4 @@ vendor/bin/phpunit
 ## License
 
 MIT
+.
