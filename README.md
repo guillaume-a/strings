@@ -2,6 +2,8 @@
 
 A simple PHP library for string manipulation operations.
 
+Last build 1.0
+
 ## Features
 
 The `Codr\Str` class provides the following methods:
